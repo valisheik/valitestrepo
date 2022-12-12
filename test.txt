@@ -4,4 +4,3 @@ This is sample file to practice git.
 
 update 1
 
-This is updated with branch dev
