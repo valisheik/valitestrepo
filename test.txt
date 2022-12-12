@@ -1,5 +1,4 @@
-ear
-i,
+Hi,
 
 This is sample file to practice git.
 
@@ -7,4 +6,3 @@ update 1
 
 updated using dev branch
 
-checking the git stash command
