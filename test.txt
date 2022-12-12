@@ -1,4 +1,5 @@
-Hi,
+ear
+i,
 
 This is sample file to practice git.
 
