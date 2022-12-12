@@ -5,3 +5,9 @@ This is sample file to practice git.
 update 1
 
 updated using dev branch
+<<<<<<< HEAD
+=======
+
+updated the file to check cherry pick 
+
+>>>>>>> bc7a4ea... commited
